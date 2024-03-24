@@ -104,7 +104,7 @@ func isGameOver(player_array *[3][3]string) {
 	}
 
 	if count >= 9 {
-		color.White("Game is Draw, No Player is Win!")
+		color.Magenta("Game is Draw, No Player is Win!")
 		os.Exit(0)
 	}
 }
