@@ -46,7 +46,12 @@ Welcome to my Tic-Tac-Toe game implementation in Go! This project provides a sim
 
 - Follow the on-screen instructions to play Tic-Tac-Toe.
 - Each player takes turns entering a number corresponding to the cell they wish to mark.
+- To make a move, enter the number corresponding to the cell where you want to place your sign.
 - The game notifies the players when there is a winner or if the game ends in a draw.
+
+## Video
+
+- [Watch Gameplay Video](Video/game-play-tic-tac-toe.mp4)
 
 ## Contributing
 
