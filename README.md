@@ -53,13 +53,7 @@ Welcome to my Tic-Tac-Toe game implementation in Go! This project provides a sim
 - Click Below to watch the output of the code.
 
 
-     <a href="https://youtu.be/PqCNMo3AWuw?si=OC9_rkRuZiewpsxW"><img src="https://i.ibb.co/Sv7xR2T/1-removebg-preview.png" alt="View Output" height="30" width="80" /></a>
-
-<!-- ## Video
-!! Remove the video folder
-!! Upload the video to YT
-- [![Video Thumbnail](https://img.youtube.com/vi/x0kdeV7-cjY/default.jpg)](https://youtu.be/x0kdeV7-cjY?si=Ik16rT8ebQ3TWP3m)
- -->
+     <a href="https://youtu.be/PqCNMo3AWuw?si=OC9_rkRuZiewpsxW"><img src="https://i.ibb.co/wrNLZQH/n.png" alt="View Output" height="30" width="80" /></a>
 
 ## Contributing
 
