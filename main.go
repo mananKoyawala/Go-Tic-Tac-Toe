@@ -42,7 +42,6 @@ func main() {
 }
 
 func isGameOver(player_array *[3][3]string) {
-	// hasNoInteger := false
 
 	// Check row
 	for i := 0; i < 3; i++ {
@@ -94,6 +93,7 @@ func isGameOver(player_array *[3][3]string) {
 		}
 	}
 
+	// Checks the moves available or not
 	count := 0
 	for _, row := range player_array {
 		for _, val := range row {
@@ -102,7 +102,7 @@ func isGameOver(player_array *[3][3]string) {
 			}
 		}
 	}
-
+	print(count)
 	if count >= 9 {
 		color.Magenta("Game is Draw, No Player is Win!")
 		os.Exit(0)
